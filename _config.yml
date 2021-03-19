@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Moonki Kim(Derek)"
+  name             : "Front-end Developer"
   avatar           :  "/assets/images/tags.jpg" # path of avatar image, e.g. "/assets/images/sky.jpg"
   bio              : "This is space for sharing IT knowledge."
   location         : "Seoul, South Korea"
@@ -199,7 +199,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -269,3 +269,14 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
