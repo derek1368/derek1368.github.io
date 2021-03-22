@@ -66,13 +66,12 @@ layout: single
   4. 사용언어 : JavaScript, JQuery, HTML/CSS  
   5. 주요성과 : 재학생 및 방문자에게 빌딩정보 및 길찾기 서비스 제공  
 
-### 컴퓨터 활용                                                                           
- - MS-Office Skill 	            [PowerPoint, Excel, Word – 상]
-    • 기타 보유기술 기재              [Server: Apache/Tomcat
-                                Front-End: HTML/CSS, JSP, jQuery, Vue.js
-Back-End: Java/Servlet  
-    • 소스버전 및 협업 툴(Tool): git 및 Jira
-    • 개발환경: Linux Ubuntu, Vim, Visual Studio Code]
+## 컴퓨터 활용                                                                           
+ - MS-Office Skill: PowerPoint, Excel, Word  
+ - Software: Javascript, HTML/CSS, jQuery, Vue.js  
+ - 버전관리 및 협업 툴(Tool): git / jira  
+ - 개발환경: Linux Ubuntu, vim, VS code  
+
 ## 자격증/수료증
 - 전자계산기조직응용기사  
 - 리눅스마스터2급  
