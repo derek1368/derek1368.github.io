@@ -7,6 +7,10 @@ categories:
 tags:
   - vue.js
 last_modified_at: 2021-03-02T08:06:00-05:00
+toc: true
+toc_label: "목차"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 ## DOM(Document Object Model) 정의

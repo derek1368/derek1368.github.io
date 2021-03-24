@@ -2,6 +2,10 @@
 title: "경력기술서"
 permalink: /about/
 layout: single
+toc: true
+toc_label: "목차"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 ## 학력
