@@ -37,7 +37,7 @@ export { registerUser };
 - 이후, 아래와 같이 axios 서비스를 쓰고자하는 커포넌트 파일에 impot 시킨 후 사용 하면됨
 
 ```jsx
-// Axios 쓰는 js파일에 선헌 후 이용
+// Axios 쓰는 js파일에 선언 후 이용
 
 import { registerUser } from '@/api/index';
 export default {

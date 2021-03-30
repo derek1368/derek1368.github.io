@@ -71,6 +71,9 @@ new Vue({
 
 ## Code Splitting 없는 페이지 라우터 처리 (History)
 - Code Splitting: Javascript File을 필요할때 마다 그때그때 불러오는 것을 말함 (Dynamic import 기능)
+- Code Splitting을 쓰는 이유: SPA형태의 웹사이트에서 가장 치명 적인 것은 초기 로딩 속도 이나, 코드 스플리팅을 사용해 사용자가 원하는 시점에 해당 파일을 로딩하여
+ 초기 로딩 속도를 개선 해주는 방법
+ 
 - History: URL의 # 부분 없애줌, (단, 배포할 때, 서버마다 조정이 필요 vue공식사이트 참고)
 - 없는페이지 라우터처리 : *를 붙여 진행
 
