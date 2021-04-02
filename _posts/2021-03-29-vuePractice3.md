@@ -1,6 +1,6 @@
 ---
 title:  "Vue.js 로그인 및 게시판 만들기(3)"
-excerpt: "회원가입 및 로그인/로그아웃 화면 개발 (Axios, Error처리, 로그인유효성, Vuex, Token값)"
+excerpt: "회원가입 및 로그인/로그아웃 화면 개발 (Axios, Error처리, 로그인유효성)"
 
 categories:
   - vue.js
@@ -140,3 +140,14 @@ export default {
   },
 
 ```
+### vue.js에서 특정 경로 이동법
+```jsx
+this.$router.push('/main');    //script 에서 사용 하는 법
+<router-link to="/main"></router-link>   // HTML 에서 사용하는 법
+```
+
+#### ※Dependencies, devDependencies차이점
+- dependencies : 애플리케이션 로직과 관련된 라이브러리 목록  
+- npm run build 했을때 dependencies 빌드 자원에 포함   
+- But, devDependencies는 빌드 자원에 포함되지 않음  
+
