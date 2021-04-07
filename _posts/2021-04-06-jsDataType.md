@@ -1,5 +1,5 @@
 ---
-title:  "JS 데이터 타입(Data Type)"
+title:  "JS 데이터 타입(DataType)"
 excerpt: "PrimitiveType, ReferenceType"
 
 categories:
