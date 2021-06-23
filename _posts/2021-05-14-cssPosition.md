@@ -1,5 +1,5 @@
 ---
-title:  "CSS Postion"
+title:  "CSS Postion 속성"
 excerpt: "Position 속성 종류 및 성격"
 
 categories:
@@ -19,7 +19,6 @@ toc_sticky: true
 2. relative
 3. absolute
 4. fixed
-5. sticky
 
 ### 1. static (기본값)
 - position 속성의 기본 값으로 따로 명시 하지않으면 static이 적용 됨.
