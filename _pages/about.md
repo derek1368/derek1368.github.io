@@ -30,7 +30,7 @@ toc_sticky: true
   4. 사용언어 : JavaScript, JQuery, JSP, HTML/CSS, JAVA, SQL, Spring
   5. 주요성과 : 증권사 WEB 관련 시스템 모니터링 및 요구사항 해결
   6. 프로젝트 수행 역할 :  
-     ** 프로젝트 : 홈페이지 2차 리뉴얼 프로젝트 지원 **  
+     프로젝트 : 홈페이지 2차 리뉴얼 프로젝트 지원
          - 기간: 2022.01 ~ 2022.09
          - 프로젝트 유형: 증권사 홈페이지 리뉴얼  
          - 주요 기술: Vue.js, JavaScript, JSP/Servlet, HTML/CSS  
