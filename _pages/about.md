@@ -25,18 +25,18 @@ toc_sticky: true
   2. 담당업무: 대고객 홈페이지 및 관리자페이지 개발 및 운영 
   3. 역할 :  
     - WTS(Web Trading System) 화면개발 및 UI/UX 개선 업무  
-    - 금융상품(연금,채권 등) 시스템 운영
-    - 이벤트 및 컨텐츠 개발
-  4. 사용언어 : JavaScript, JQuery, JSP, HTML/CSS, JAVA, SQL, Spring
-  5. 주요성과 : 증권사 WEB 관련 시스템 모니터링 및 요구사항 해결
+    - 금융상품(연금,채권 등) 관련 시스템 운영  
+    - 이벤트 및 컨텐츠 개발  
+  4. 사용언어 : JavaScript, JQuery, JSP, HTML/CSS, JAVA, SQL, SpringFramework 
+  5. 주요성과 : 증권사 홈페이지 포함 WEB 관련 시스템 모니터링 및 요구사항 해결
   6. 프로젝트 수행 역할 :  
-     프로젝트 : 홈페이지 2차 리뉴얼 프로젝트 지원
-         - 기간: 2022.01 ~ 2022.09
-         - 프로젝트 유형: 증권사 홈페이지 리뉴얼  
-         - 주요 기술: Vue.js, JavaScript, JSP/Servlet, HTML/CSS  
-         - 주요 역할:  
-            (1) 프로젝트 지원 및 개발  
-            (2) WTS 백엔드 차세대 프로토콜 수정
+    ** 프로젝트 : 홈페이지 2차 리뉴얼 프로젝트 지원**  
+    - 기간: 2022.01 ~ 2022.09  
+    - 프로젝트 유형: 증권사 홈페이지 리뉴얼  
+    - 주요 기술: SpringFramework, JavaScript, JSP/Servlet, HTML/CSS  
+    - 주요 역할:  
+      (1) 프로젝트 지원 및 개발  
+      (2) 변경 TR(Transaction)I/O 수정  
 
 ### 롯데정보통신 (2016.08 ~ 2021.08)
   1. 회사소개: 롯데정보통신 (서울시 금천구/IT서비스)  
