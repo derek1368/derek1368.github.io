@@ -3,9 +3,9 @@ title:  "JS 변수 Scope"
 excerpt: "Js 변수에 대한 정의 및 스코프(var, let, const)"
 
 categories:
-  - front-end
+  - javascript
 tags:
-  - front-end
+  - javascript
 last_modified_at: 2021-03-24T08:06:00-05:00
 toc: true
 toc_label: "Contents"

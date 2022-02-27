@@ -3,9 +3,9 @@ title:  "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB �
 excerpt: "Project 세팅법"
 
 categories:
-  - Back-end
+  - spring
 tags:
-  - Back-end
+  - spring
 last_modified_at: 2021-07-24T08:06:00-05:00
 toc: true
 toc_label: "목차"

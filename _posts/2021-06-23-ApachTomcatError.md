@@ -3,9 +3,9 @@ title:  "Apache/Tomact Error 처리법"
 excerpt: "Apache/Tomcat Error 처리법"
 
 categories:
-  - Back-end
+  - network
 tags:
-  - Back-end
+  - network
 last_modified_at: 2021-06-23T08:06:00-05:00
 toc: true
 toc_label: "목차"
